@@ -1,7 +1,7 @@
 ### Usage
 
 ```go
-client, err := refreshTokenRpc.NewRpc("genius-token-rpc.ncuos.com:443", &refreshTokenRpc.Config{
+client, err := refreshTokenRpc.NewRpc("v.ncuos.com:443", &refreshTokenRpc.Config{
 	AppCode: "xxx",
 	AppSecret: "xxx"
 })
