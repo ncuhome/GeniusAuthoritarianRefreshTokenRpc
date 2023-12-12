@@ -56,3 +56,9 @@ func (r Rpc) VerifyAccessToken(ctx context.Context, accessToken string) (*refres
 		Token: accessToken,
 	}))
 }
+
+func (r Rpc) GetUserInfo(ctx context.Context, accessToken string) (*refreshTokenProto.UserInfo, error) {
+	return r.conn.GetUserInfo(ctx, r.FillSignature(&refreshTokenProto.TokenRequest{
+		Token: accessToken,
+	}))
+}

@@ -4,8 +4,8 @@ github.com/golang/protobuf v1.5.3/go.mod h1:XVQd3VNwM+JqD3oG2Ue2ip4fOMUkwXdXDdiu
 github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
 github.com/google/go-cmp v0.5.9/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
-github.com/ncuhome/GeniusAuthoritarianProtos v0.0.3 h1:C4lQGCuoypUHZQV32S/XeIVXx+j3GJnKuuc7DZtO3yE=
-github.com/ncuhome/GeniusAuthoritarianProtos v0.0.3/go.mod h1:q8WcqyGzp0pBuoWWAQJhTucvMiPkh+oAeDMIClZSQlc=
+github.com/ncuhome/GeniusAuthoritarianProtos v0.0.4 h1:CzlRdPZvUJTWT+bLxF7Miy99RWHG0P8d1+Mq9s8+nbQ=
+github.com/ncuhome/GeniusAuthoritarianProtos v0.0.4/go.mod h1:q8WcqyGzp0pBuoWWAQJhTucvMiPkh+oAeDMIClZSQlc=
 golang.org/x/net v0.14.0 h1:BONx9s002vGdD9umnlX1Po8vOZmrgH34qlHcD1MfK14=
 golang.org/x/net v0.14.0/go.mod h1:PpSgVXXLK0OxS0F31C1/tv6XNguvCrnXIDrFMspZIUI=
 golang.org/x/sys v0.11.0 h1:eG7RXZHdqOJ1i+0lgLgCpSXAp6M3LYlAo6osgSi0xOM=

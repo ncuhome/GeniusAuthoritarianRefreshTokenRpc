@@ -3,7 +3,7 @@ module github.com/ncuhome/GeniusAuthoritarianRefreshTokenRpc
 go 1.21.4
 
 require (
-	github.com/ncuhome/GeniusAuthoritarianProtos v0.0.3
+	github.com/ncuhome/GeniusAuthoritarianProtos v0.0.4
 	google.golang.org/grpc v1.59.0
 )
 
