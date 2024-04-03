@@ -1,3 +1,7 @@
+# Deprecated
+
+rpc will be updated to mutual ssl mode and migrate into client
+
 ### Usage
 
 ```go
